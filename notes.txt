@@ -1,0 +1,4 @@
+Video donest have behaviour - no point in decoupling
+
+extract 3 interfaces
+have the video processor talk to those interfaces
